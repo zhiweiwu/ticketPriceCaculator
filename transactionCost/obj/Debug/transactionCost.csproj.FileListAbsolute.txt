@@ -1,0 +1,11 @@
+C:\Users\tonyw\source\repos\transactionCost\bin\Debug\transactionCost.exe.config
+C:\Users\tonyw\source\repos\transactionCost\bin\Debug\transactionCost.exe
+C:\Users\tonyw\source\repos\transactionCost\bin\Debug\transactionCost.pdb
+C:\Users\tonyw\source\repos\transactionCost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tonyw\source\repos\transactionCost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tonyw\source\repos\transactionCost\obj\Debug\transactionCost.csproj.AssemblyReference.cache
+C:\Users\tonyw\source\repos\transactionCost\obj\Debug\transactionCost.csproj.SuggestedBindingRedirects.cache
+C:\Users\tonyw\source\repos\transactionCost\obj\Debug\transactionCost.csproj.CoreCompileInputs.cache
+C:\Users\tonyw\source\repos\transactionCost\obj\Debug\transactionCost.csproj.CopyComplete
+C:\Users\tonyw\source\repos\transactionCost\obj\Debug\transactionCost.exe
+C:\Users\tonyw\source\repos\transactionCost\obj\Debug\transactionCost.pdb

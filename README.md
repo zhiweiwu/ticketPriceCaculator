@@ -5,5 +5,5 @@ is also come with the unit test which able to make sure all the logic part is ru
 
 ## Installation
 
-just sample download all the files and use visual studio to open TransactionCostTests.sln to run the test program make sure all the test is all passed, then open transactionCost.sln to see the outcome, you should also able to find json file in /bin/json, you can change the data to test different outcome
+just sample download all the files and use visual studio to open TransactionCostTests.sln to run the test make sure all the test is all passed, then open transactionCost.sln in transactionCost folder to see the outcome, you should also able to find json file in /bin/json, you can change the data to test different outcome
 
